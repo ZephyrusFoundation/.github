@@ -55,3 +55,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Zephyrus Foundation** | Empowering Social Change, Advancing Technological Progress
+
+<div align="center">
+  <a href="https://github.com/ZephyrusFoundation/" target="_blank">
+    <img src="https://img.shields.io/github/followers/ZephyrusFoundation?color=b100e3" alt="Followers badge"/>
+  </a>
+  <a href="https://github.com/ZephyrusFoundation/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ZephyrusFoundation&color=b100e3&style=flat&label=visitors" alt="Visitor badge"/>
+  </a>
+  <a href="https://github.com/ZephyrusFoundation/" target="_blank">
+    <img src="https://img.shields.io/github/stars/ZephyrusFoundation?color=b100e3" alt="Stars badge" />
+  </a>
+</div>
