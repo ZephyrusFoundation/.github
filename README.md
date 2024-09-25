@@ -13,4 +13,4 @@ We welcome contributions to our projects. Please read the [contributing guidelin
 
 ## License
 
-All projects are under the [MIT License](LICENSE.md) unless otherwise noted.
+All projects are under the [MIT License](LICENSE) unless otherwise noted.
