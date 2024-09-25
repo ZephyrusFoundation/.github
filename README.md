@@ -5,7 +5,7 @@ Our mission is to support and promote causes related to freedom of expression, e
 
 ## Contact
 
-For more information, visit [our website](https://zephyrusfoundation.org) or contact us at support@zephyrusfoundation.org.
+For more information, visit [our website](https://zephyrusfoundation.org) or contact us at contact@zephyrusfoundation.org.
 
 ## Contributing
 
