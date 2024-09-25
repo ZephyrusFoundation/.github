@@ -60,13 +60,12 @@ Our mission is to promote social good and cutting-edge technological research wh
 
 You can contribute to the Zephyrus Foundation in several ways:
 
-- **Donate**: Help us keep the initiative going and support global causes by donating [here](#).
 - **Spread the Word**: Follow us on social media and share our content to help raise awareness.
 - **Collaborate**: If you're part of an organization or individual looking to partner with us, feel free to get in touch!
 
 ## Documentation
 
-We aim to maintain transparency in everything we do. Documentation on how we operate, our financials, and project impact reports can be found in the [docs](docs/) folder.
+We aim to maintain transparency in everything we do. Documentation on how we operate, our financials, and project impact reports can be found at our [**zephyrus-foundation.org**](https://zephyrus-foundation.org) when available.
 
 ## How Donations Are Used
 
@@ -80,7 +79,7 @@ For inquiries, partnerships, or media requests, please contact us via email at [
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
 
 ---
 
