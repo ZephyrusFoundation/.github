@@ -8,6 +8,36 @@ At this stage, the foundation is focused on research, development, and publishin
 
 The **Zephyrus Foundation** is a project created by **Zephyrus Prosperity - Unipessoal Lda** in collaboration with **DynatriSoft Games** and **Bitwo.io**. This partnership unites organizational support, creativity, and technological innovation to maximize the social impact of our initiatives. **Zephyrus Prosperity** provides the foundation for financial stability and strategic direction, while **DynatriSoft Games** and **Bitwo.io** contribute their expertise in technology and software development to promote meaningful change through innovation.
 
+## Supported By
+
+We are proud to be supported by the following companies that help sustain and drive our mission forward:
+
+<table align="center">
+  <tr align="center">
+    <td>
+      <a href="https://zephyrus.pt" target="_blank">
+        <img src="https://github.com/ZephyrusFoundation/.github/blob/main/assets/zephyrus_icon.png" alt="Zephyrus Prosperity Logo" width="80"/>
+        <br/>
+        Zephyrus Prosperity
+      </a>
+    </td>
+    <td>
+      <a href="https://dynatrisoft.com" target="_blank">
+        <img src="https://github.com/ZephyrusFoundation/.github/blob/main/assets/dynatrisoft_icon.png" alt="DynatriSoft Games Logo" width="80"/>
+        <br/>
+        DynatriSoft Games
+      </a>
+    </td>
+    <td>
+      <a href="https://bitwo.io" target="_blank">
+        <img src="https://github.com/ZephyrusFoundation/.github/blob/main/assets/bitwo_icon.png" alt="Bitwo.io Logo" width="80"/>
+        <br/>
+        Bitwo.io
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Mission
 Our mission is to promote social good and cutting-edge technological research while upholding the values of transparency, fairness, and global citizenship. We believe in the power of community-driven initiatives to make a tangible difference in the world.
 
