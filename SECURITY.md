@@ -8,7 +8,7 @@ At Zephyrus Foundation, we take the security of our systems seriously. If you di
 
 Please report security vulnerabilities directly to us via the following email:
 
-**security@zephyrusfoundation.org**
+**security@zephyrus-foundation.org**
 
 Your report should include:
 
