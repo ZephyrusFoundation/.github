@@ -1,4 +1,4 @@
-<img src="https://github.com/ZephyrusFoundation/.github/blob/77cb31ca06ee80821c3496e11c70be0b78a99805/assets/banner.png" alt="Zephyrus Prosperity Banner" >
+<img src="https://github.com/ZephyrusFoundation/.github/blob/5e089235bd73e9ee80610e17fa83d87a8f397531/assets/bannersite.png" alt="Zephyrus Prosperity Banner" >
 
 # 🎮 Zephyrus Foundation
 
