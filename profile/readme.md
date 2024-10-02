@@ -1,5 +1,3 @@
-<img src="https://github.com/ZephyrusFoundation/.github/blob/5e089235bd73e9ee80610e17fa83d87a8f397531/assets/bannersite.png" alt="Zephyrus Prosperity Banner" >
-
 # 🎮 Zephyrus Foundation
 
 **Zephyrus Foundation** is an initiative created to promote and support social causes and technological research. Our mission is to foster positive change by raising awareness, conducting research, and creating content around key global challenges such as freedom of speech, environmental protection, animal welfare, health, and technological advancement.
